@@ -1,4 +1,4 @@
-DEPENDENCIES
+// DEPENDENCIES
 // Getting the dependencies path package to get the correct file path for html
 var path = require("path");
 
